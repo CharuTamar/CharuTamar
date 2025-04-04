@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi there, I'm Charu!
 
-<!--
-**CharuTamar/CharuTamar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full Stack Developer currently undergoing training in .NET and MERN Stack at Wipro. I enjoy building end-to-end web applications, exploring new technologies, and solving real-world problems through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS
+- **Backend:** Node.js, Express.js, ASP.NET Core, .NET 9 Web API
+- **Database:** MongoDB, MS SQL Server
+- **Tools & Platforms:** Git, GitHub, Postman, Vercel, Visual Studio, VS Code
+- **Extras:** JWT Auth, REST APIs, Stripe Integration, OpenAPI, Socket.io
+
+---
+
+## 📌 Featured Projects
+- 🔹 **[Hotel Booking & Reservation System](https://github.com/CharuTamar/Hotel-Booking-Reservation-System)**  
+  Role-based booking system with Stripe payment integration and admin dashboard.
+
+- 🔹 **[E-Commerce Cart System](https://github.com/CharuTamar/E-Commerce-Cart-System)**  
+  React + Node.js based cart app with product listing, cart management, and checkout flow.
+
+- 🔹 **[Bank Loan Default Analysis](https://github.com/CharuTamar/Bank-Loan-Default-Analysis-PowerBI)**  
+  Data visualization and analysis using Power BI, showcasing insights from financial data.
+
+---
+
+## 📈 What I'm Working On
+- Building a Movie Search App using React & OMDb API  
+- Creating an AI-Generated Content & SEO Analytics Platform  
+- Preparing for software development roles and sharpening system design skills
+
+---
+
+## 🌐 Let's Connect!
+- 💼 [LinkedIn](https://www.linkedin.com/in/charu-tamar/)  
+- 💻 [GitHub](https://github.com/CharuTamar)  
+- ✉️ Reach me at: *tamarcharu@gmail.com*  
+
+---
+
+*Thanks for visiting my profile! 😊*
