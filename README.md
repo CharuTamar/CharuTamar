@@ -20,7 +20,7 @@ I'm a passionate Full Stack Developer currently undergoing training in .NET and 
 - 🔹 **[E-Commerce Cart System](https://github.com/CharuTamar/Wipro-Assignments-Milestones/tree/master/Milestone%201-E-Cart%20System%20by%20Charu%20Tamar)**  
   React + Node.js based cart app with product listing, cart management, and checkout flow.
 
-- 🔹 **[Bank Loan Default Analysis](https://github.com/CharuTamar/Bank-Loan-Default-Analysis-PowerBI)**  
+- 🔹 **[Bank Loan Case_Study_using_PowerBI](https://github.com/CharuTamar/Bank-Loan-Case-study)**  
   Data visualization and analysis using Power BI, showcasing insights from financial data.
 
 ---
