@@ -8,7 +8,7 @@ I'm a passionate Full Stack Developer currently undergoing training in .NET and 
 - **Frontend:** React.js, HTML, CSS, Bootstrap, Tailwind CSS
 - **Backend:** Node.js, Express.js, ASP.NET Core, .NET 9 Web API
 - **Database:** MongoDB, MS SQL Server
-- **Tools & Platforms:** Git, GitHub, Postman, Vercel, Visual Studio, VS Code
+- **Tools & Platforms:** Power BI, Tableau, Git, GitHub, Postman, Vercel, Visual Studio, VS Code
 - **Extras:** JWT Auth, REST APIs, Stripe Integration, OpenAPI, Socket.io
 
 ---
