@@ -14,7 +14,7 @@ I'm a passionate Full Stack Developer currently undergoing training in .NET and 
 ---
 
 ## 📌 Featured Projects
-- 🔹 **[Hotel Booking & Reservation System](https://github.com/CharuTamar/Hotel-Booking-Reservation-System)**  
+- 🔹 **[Hotel Booking & Reservation System](https://github.com/CharuTamar/Wipro_Capstone_Project-Hotel-Reservation-System)**  
   Role-based booking system with Stripe payment integration and admin dashboard.
 
 - 🔹 **[E-Commerce Cart System](https://github.com/CharuTamar/E-Commerce-Cart-System)**  
