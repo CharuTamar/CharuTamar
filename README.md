@@ -48,13 +48,6 @@ Alongside web development, I’m also enthusiastic about **Data Analytics** and 
 - Exploring more data analytics projects using Power BI and Tableau  
 - Preparing for software development roles and sharpening system design skills
 
----
-
-## 📊 GitHub Stats
-
-![Charu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CharuTamar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharuTamar&layout=compact&theme=tokyonight)
 
 ---
 
@@ -63,7 +56,6 @@ Alongside web development, I’m also enthusiastic about **Data Analytics** and 
 - 💻 [GitHub](https://github.com/CharuTamar)  
 - ✉️ Reach me at: tamarcharu@gmail.com  
 
-![Profile Views](https://komarev.com/ghpvc/?username=CharuTamar&color=blue)
 
 ---
 
