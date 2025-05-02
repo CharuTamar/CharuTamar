@@ -18,6 +18,9 @@ Alongside web development, I’m also enthusiastic about **Data Analytics** and 
 ---
 
 ## 📌 Featured Projects
+- 🔹 **[Content Planner & Engagement Tracker](https://github.com/CharuTamar/contentplanner-and-engagementtracker)**  
+  A full-stack web application to create, manage, and track content performance across various formats like blogs, tweets, reels, and videos.
+
 - 🔹 **[Hotel Booking & Reservation System](https://github.com/CharuTamar/Wipro_Capstone_Project-Hotel-Reservation-System)**  
   Role-based booking system with Stripe payment integration and admin dashboard.
 
